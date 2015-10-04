@@ -320,7 +320,7 @@ We will be working in the Bash Shell and Python, as well as performing version c
            the workshop will teach Python using something other than
            the IPython notebook.
            Details at http://ipython.org/ipython-doc/2/install/install.html#browser-compatibility -->
-  <h3>Python</h3>
+  <h2>Python</h2>
 
   <p>
     <a href="http://python.org">Python</a> is a popular language for
